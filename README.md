@@ -35,7 +35,7 @@ Minimal design – perfect for beginners learning Python + Tkinter.
 
 ## ⚙️ Setup
 ```
-git clone https://github.com/YourUsername/SnakePy.git
+git clone https://github.com/DishantBhere/Snake-Game-Tkinter
 cd SnakePy
 
 # Run Basic Snake (Python1)
