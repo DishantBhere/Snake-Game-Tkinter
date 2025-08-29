@@ -73,6 +73,6 @@ python snake_modern.py
 
 ### 🧑‍💻 Author
 
-Developed by https://github.com/DishantBhere
+Developed by (https://github.com/DishantBhere)
 
 
