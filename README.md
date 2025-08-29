@@ -73,6 +73,8 @@ python snake_modern.py
 
 ### 🧑‍💻 Author
 
-Developed by (https://github.com/DishantBhere)
+Developed by [Dishantbhere](https://github.com/DishantBhere)
 
 
+## Live Demo
+[Click here to try it](https://dishantbhere.github.io/Scientific-Calculator/)
